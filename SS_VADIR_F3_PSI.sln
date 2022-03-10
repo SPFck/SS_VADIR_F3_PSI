@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SS_VADIR_F3_PSI", "SS_VADIR_F3_PSI\SS_VADIR_F3_PSI.csproj", "{1E034D2B-2247-443D-A7F1-7D7F9E2611B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E034D2B-2247-443D-A7F1-7D7F9E2611B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E034D2B-2247-443D-A7F1-7D7F9E2611B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E034D2B-2247-443D-A7F1-7D7F9E2611B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E034D2B-2247-443D-A7F1-7D7F9E2611B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49C9D4A3-9FF4-4070-9BA0-224CC5DCCB6A}
+	EndGlobalSection
+EndGlobal
